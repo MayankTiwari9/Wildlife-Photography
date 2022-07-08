@@ -1,5 +1,5 @@
 
-# Animal Photography
+# Wildlife Photography
 
 This website shows the real and elegent images of Animals in different habitat.
 
